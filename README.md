@@ -1,8 +1,8 @@
-# Regression-model-for-predicting-house-prices
-## Project Overview
+## Regression-model-for-predicting-house-prices
+### Project Overview
 In this project, we perform a comprehensive analysis of the Melbourne House Price dataset to predict house prices. The goal is to practice predictive modeling by applying regression analysis. The dataset contains various features of houses such as the number of rooms, location, type, and more. The task involves preprocessing, performing exploratory data analysis (EDA), fitting a linear regression model, and interpreting the results.
 
-## Objectives
+### Objectives
 Apply statistical modeling to predict house prices.
 Clean and preprocess data to handle missing values and outliers.
 Perform exploratory data analysis to understand the relationships between variables.
@@ -29,7 +29,4 @@ Fit a linear regression model and evaluate its performance.
 
 - Evaluate the model's performance using key metrics like Mean Squared Error (MSE), R-squared, etc.
 - Analyze the model's coefficients to understand the influence of each variable on the target variable.
-### Interpretation and Reporting:
 
-- Provide interpretations of the model results and discuss which variables have the most predictive power.
-- Offer suggestions on potential improvements to the model.
